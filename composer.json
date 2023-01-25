@@ -20,7 +20,7 @@
     },
     "extra": {
         "branch-alias": {
-	    "dev-php81": "2.9.x-dev"
+	    "dev-php81": "2.10.x-dev"
         }
     },
     "require": {
